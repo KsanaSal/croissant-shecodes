@@ -1,0 +1,27 @@
+body {
+    background-color: #FED7B4;
+}
+h1, p {
+    text-align: center;
+    color: #101010;
+}
+h1 {
+    text-shadow: 9px 5px 5px rgba(59, 2, 67, 0.3);
+}
+footer {
+    display: flex;
+    justify-content: center;
+}
+footer a {
+    color: #62029D;
+    margin: 0 15px;
+}
+
+.photo-croissant {
+    display: block;
+    max-width: 100%;
+    border: 2px solid #FDB87B;
+    border-radius: 25px;
+    box-shadow: 3px 5px 5px rgba(0, 0, 0, 0.2);
+    margin: 25px auto;
+}
